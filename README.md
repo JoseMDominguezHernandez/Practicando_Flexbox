@@ -1,2 +1,2 @@
 # Practicando_Flexbox
-Práctica de ubicación de campos con Flexbox
+Práctica de ubicación de campos con Flexbox. App Móvil
